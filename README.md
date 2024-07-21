@@ -29,7 +29,8 @@ ReactDOM.createRoot(document.getElementById('root')).render(
   </React.StrictMode>,
 )
 ```
-Home page 
+
+#Home page 
 ```javascript
 import React from 'react'
 import { Link } from 'react-router-dom';
@@ -164,7 +165,8 @@ export default function About() {
   );
 }
 ```
-#contact us file
+
+# Contact Us file
 ```javascript
 import React from 'react'
 
@@ -304,6 +306,7 @@ export default function Contact() {
                     </div>
                 </div>
             </div>
+```
         </div>
     );
 }
